@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="ScalaDev,ScalaDev.main,ScalaDev.test,scala,scala.main,scala.test,scala_1072,scala_1072.main,scala_1072.test,scala_1157,scala_1157.main,scala_1157.test,scala_6162,scala_6162.main,scala_6162.test,scaladev_1773,scaladev_1773.main,scaladev_1773.test,scaladev_2327,scaladev_2327.main,scaladev_2327.test,scaladev_3976,scaladev_3976.main,scaladev_3976.test" />
+  </component>
+</project>
